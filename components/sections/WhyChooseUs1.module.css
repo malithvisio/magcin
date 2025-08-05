@@ -1,0 +1,13 @@
+.review_btn:hover {
+  transform: translateY(-1px);
+}
+
+.tripadvisor_btn:hover {
+  background: #2bc78e !important;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2) !important;
+}
+
+.trustpilot_btn:hover {
+  background: #ebebeb !important;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15) !important;
+}
